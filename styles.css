@@ -1,16 +1,52 @@
-<style>
-
-body {
-	background-color: green;
-	color: white;
+header{
+	color : DarkSlateGray;
+	font-family: "Arial Black";
+	font-size: x-large;
 }
 
+ol{
+	text-align: left;
+	margin-left: 200px;
+	font-family: Arial;
+	font-size: x-large;
+	color:DarkGreen;
+	font-weight: bold;
+}
 
+.boulder-names{
+	margin-left: 50px;
+	margin-top: 100px;
+	margin-bottom: 20px;
+	color: DimGray;
+	font-size: x-large;
+}
 
+body{
+	text-align: center;
+	
+	max-width: 1200px;
+	background-color: Beige;
+	color: navy;
+	font-family: Arial;
+}
 
+#middleParagraph {
 
+	color: Maroon;
+}
 
+p{
+    padding: 0.625em 0 0.625em 0.625em;
+}
 
+img{
+	
+}
 
-
-</style>
+footer {
+	margin-top: 75px;
+	margin-left: 800px;
+	font-size: small;
+	color: Teal;
+	text-align:right;
+}
